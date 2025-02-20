@@ -1,3 +1,4 @@
+
 #grupo {
    width: 400px;
    border-radius: 50%;
@@ -176,6 +177,23 @@ body {
     text-decoration: none;
 }
 
+
+.dancing-script-font {
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
 .musica a{
     text-decoration: none;
+    color: black;
+}
+
+p{
+    font-family: "Dancing Script", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
