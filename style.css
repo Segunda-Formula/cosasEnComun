@@ -1,7 +1,7 @@
 #grupo {
    width: 400px;
    border-radius: 50%;
-   border: 30px solid  #95b39b;
+   border: 30px solid  hsl(293, 63%, 64%,35%);
    margin: 100px;
    margin-left: 200px;
    border-top-left-radius: 0%;
@@ -12,13 +12,13 @@
     width: 75px;
     margin-right: px;
     padding: 10px;
-    padding-left: 50px;
+  
 }
 
 .mainmenu {
 
     display: flex;
-    background-color: #95b39b;
+    background-color: #599a98;
     flex-wrap: nowrap;
     max-height: 100px;
 }
@@ -34,7 +34,7 @@ ul {
 }
 
 li {
-    background-color: #95b39b;
+    background-color: #ef9ff2;
     margin-left: 60px;
     
     border-radius: 25%;
@@ -56,7 +56,7 @@ li:hover {
 }
 
 .Cuerpo {
-    background-color: #edbda6;
+    background-color: hsl(205, 86%, 89%);
     display: flex;
     flex-direction: row;
     padding: 10px;
@@ -99,7 +99,7 @@ li:hover {
 }
 
 .Carta {
-    background-color: #95b39b;
+    background-color: #599a98;
     display: flex;
     flex-wrap: nowrap;
     margin-inline-start: auto;
@@ -116,8 +116,7 @@ li:hover {
     flex-direction: row;
     padding-bottom: 15px;
     border-radius: 50%;
-    border-top-left-radius: 25%;
-    border-top-right-radius: 25%;
+    
     justify-content: center;
 
 }
@@ -125,6 +124,8 @@ body {
     margin: auto;
     max-width: auto;
     font-family: Helvetica;
+   
+    
 }
 
 
